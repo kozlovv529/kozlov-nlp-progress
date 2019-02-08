@@ -8,8 +8,8 @@ On OS X for instance, this can be done with `brew install ruby`. Make sure you a
 1. Install Bundler `gem install bundler`. If you run into issues with installing bundler on OS X, have a look
 [here](https://bundler.io/v1.16/guides/rubygems_tls_ssl_troubleshooting_guide.html) for troubleshooting tips. Also try refreshing
 the terminal.
-1. Clone the repo locally: `git clone https://github.com/sebastianruder/NLP-progress`
-1. Navigate to the repo with `cd NLP-progress`
+1. Clone the repo locally: `git clone https://github.com/kozlovv529/kozlov-nlp-progress`
+1. Navigate to the repo with `cd kozlov-nlp-progress`
 1. Install Jekyll: `bundle install`
 1. Run the Jekyll site locally: `bundle exec jekyll serve`
 1. You can now preview the local Jekyll site in your browser at `http://localhost:4000`.
